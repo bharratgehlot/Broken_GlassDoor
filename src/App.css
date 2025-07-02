@@ -1,0 +1,85 @@
+/* App.css */
+
+body {
+  margin: 10px;
+  padding: 10px;
+  font-family: sans-serif;
+  background-color: #f2f2f2;
+}
+
+
+.profile_card {
+border: 1px solid #ccc;
+padding: 20px;
+margin: 20px;
+border-radius: 8px;
+background-color: #94ec88f1;
+text-align: center;
+max-width: 500px;
+}
+
+.profile_card2 {
+border: 1px solid #ccc;
+padding: 20px;
+margin: 20px;
+border-radius: 8px;
+background-color: #b182e6f1;
+max-width: 500px;
+text-align: center;
+}
+
+.profile_card3 {
+border: 1px solid #ccc;
+padding: 20px;
+margin: 20px;
+border-radius: 8px;
+background-color: #098ea0f1;
+max-width: 500px;
+text-align: center;
+}
+
+.profile_card4 {
+border: 1px solid #ccc;
+padding: 20px;
+margin: 20px;
+border-radius: 8px;
+background-color: #b1a326f6;
+max-width: 500px;
+text-align: center;
+}
+
+
+.profile_card5 {
+border: 1px solid #ccc;
+padding: 20px;
+margin: 20px;
+border-radius: 8px;
+background-color: #55df15f1;
+max-width: 500px;
+text-align: center;
+}
+
+
+
+.HireMeButton {
+  background-color: rgba(0, 0, 0, 0.781);
+  margin-top: 10px;
+  color: #f2f2f2;
+  padding: 8px 12px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.HireMeButton:hover {
+  background-color: black;
+}
+
+.profile-img {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-bottom: 12px;
+}
