@@ -1,13 +1,25 @@
 # 🪟 Broken_GlassDoor
 
-> A fun parody of Glassdoor — but with extra cracks and comedy.
+**Broken_GlassDoor** is a web-based platform designed to help discover the **best talent from Mandsaur University**. It aims to showcase hundreds of student profiles from one college in one place — making it easier for companies, startups, or collaborators to find skilled individuals across various domains.
 
-Browse totally legit company reviews and hire top-tier talent like:
-- 🧑‍💻 Sleep-deprived full stack dev
-- 🧙‍♂️ 10x backend magician (claims not proven)
-- 👩‍🚀 React astronaut (lives in the terminal)
-- 🧟‍♀️ Intern with 2 years of fake experience
+## 🎯 Purpose
 
-All powered by React. No NDAs were broken in the making of this project.
+This project was built with the goal of:
 
----
+- Highlighting real student skills and portfolios from Mandsaur University  
+- Creating a centralized space for recruiters to find talent  
+- Providing students a chance to stand out and get noticed  
+
+## 🛠️ Tech Stack
+
+- **Frontend**: HTML, CSS, JavaScript, React.js  
+- **Database**: SQLite  
+- **Backend**: (Planned or under development)
+
+## 🚀 How to Run Locally
+
+```bash
+git clone https://github.com/yourusername/Broken_GlassDoor.git
+cd Broken_GlassDoor
+npm install
+npm start
